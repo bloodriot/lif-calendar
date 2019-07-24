@@ -1,0 +1,1 @@
+//https://region-eu.lif.online/service-status.php?action=getServersStatus&worldid=eu-big

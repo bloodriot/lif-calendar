@@ -1,0 +1,280 @@
+
+/* #region Animals: Breeding */
+.breeding-chicken {
+    content: url('../icons/animals/chicken.png');
+}
+.breeding-cow {
+    content: url('../icons/animals/cow.png');
+}
+.breeding-horse {
+    content: url('../icons/animals/horse.png');
+}
+.breeding-pig {
+    content: url('../icons/animals/pig.png');
+}
+.breeding-rabbit {
+    content: url('../icons/animals/rabbit.png');
+}
+.breeding-sheep {
+    content: url('../icons/animals/sheep.png');
+}
+/* #endregion */
+/* #region Animals: Gathering */
+.harvest-chicken {
+    content: url('../icons/animals/chicken_gathering.png');
+}
+.harvest-cow {
+    content: url('../icons/animals/cow_gathering.png');
+}
+.harvest-sheep {
+    content: url('../icons/animals/sheep_gathering.png');
+}
+/* #endregion */
+/* #region Crops: Sow/Grow */
+.sow-cCrops {
+    content: url('../icons/crops/cCrops.png');
+}
+.grow-cCrops {
+    content: url('../icons/crops/cCrops.png');
+}
+.sow-cFlax {
+    content: url('../icons/crops/cFlax.png');
+}
+.grow-cFlax {
+    content: url('../icons/crops/cFlax.png');
+}
+.sow-cGrapes {
+    content: url('../icons/crops/cGrapes.png');
+}
+.grow-cGrapes {
+    content: url('../icons/crops/cGrapes.png');
+}
+.sow-cPotato {
+    content: url('../icons/crops/cPotato.png');
+}
+.grow-cPotato {
+    content: url('../icons/crops/cPotato.png');
+}
+.sow-cVegetable {
+    content: url('../icons/crops/cVegetable.png');
+}
+.grow-cVegetable {
+    content: url('../icons/crops/cVegetable.png');
+}
+.sow-wCrops {
+    content: url('../icons/crops/wCrops.png');
+}
+.grow-wCrops {
+    content: url('../icons/crops/wCrops.png');
+}
+.sow-wFlax {
+    content: url('../icons/crops/wFlax.png');
+}
+.grow-wFlax {
+    content: url('../icons/crops/wFlax.png');
+}
+.sow-wGrapes {
+    content: url('../icons/crops/wGrapes.png');
+}
+.grow-wGrapes {
+    content: url('../icons/crops/wGrapes.png');
+}
+.sow-wPotato {
+    content: url('../icons/crops/wPotato.png');
+}
+.grow-wPotato {
+    content: url('../icons/crops/wPotato.png');
+}
+.sow-wVegetable {
+    content: url('../icons/crops/wVegetable.png');
+}
+.grow-wVegetable {
+    content: url('../icons/crops/wVegetable.png');
+}
+/* #endregion */
+/* #region Crops: Harvest */
+.harvest-cCrops {
+    content: url('../icons/crops/cCrops.png');
+}
+.harvest-cFlax {
+    content: url('../icons/crops/cFlax.png');
+}
+.harvest-cGrapes {
+    content: url('../icons/crops/cGrapes.png');
+}
+.harvest-cPotato {
+    content: url('../icons/crops/cPotato.png');
+}
+.harvest-cVegetable {
+    content: url('../icons/crops/cVegetable.png');
+}
+.harvest-wCrops {
+    content: url('../icons/crops/wCrops.png');
+}
+.harvest-wFlax {
+    content: url('../icons/crops/wFlax.png');
+}
+.harvest-wGrapes {
+    content: url('../icons/crops/wGrapes.png');
+}
+.harvest-wPotato {
+    content: url('../icons/crops/wPotato.png');
+}
+.harvest-wVegetable {
+    content: url('../icons/crops/wVegetable.png');
+}
+.end-cCrops {
+    content: url('../icons/crops/cCrops.png');
+}
+.end-cFlax {
+    content: url('../icons/crops/cFlax.png');
+}
+.end-cGrapes {
+    content: url('../icons/crops/cGrapes.png');
+}
+.end-cPotato {
+    content: url('../icons/crops/cPotato.png');
+}
+.end-cVegetable {
+    content: url('../icons/crops/cVegetable.png');
+}
+.end-wCrops {
+    content: url('../icons/crops/wCrops.png');
+}
+.end-wFlax {
+    content: url('../icons/crops/wFlax.png');
+}
+.end-wGrapes {
+    content: url('../icons/crops/wGrapes.png');
+}
+.end-wPotato {
+    content: url('../icons/crops/wPotato.png');
+}
+.end-wVegetable {
+    content: url('../icons/crops/wVegetable.png');
+}
+/* #endregion */
+/* #region Trees: Plant/Grow */
+.plant-apple {
+    content: url('../icons/trees/apple.png');
+}
+.plant-aspen {
+    content: url('../icons/trees/aspen.png');
+}
+.plant-birch {
+    content: url('../icons/trees/birch.png');
+}
+.plant-elm {
+    content: url('../icons/trees/elm.png');
+}
+.plant-hazel {
+    content: url('../icons/trees/hazel.png');
+}
+.plant-juniper {
+    content: url('../icons/trees/juniper.png');
+}
+.plant-maple {
+    content: url('../icons/trees/maple.png');
+}
+.plant-mulberry {
+    content: url('../icons/trees/mulberry.png');
+}
+.plant-oak {
+    content: url('../icons/trees/oak.png');
+}
+.plant-pine {
+    content: url('../icons/trees/pine.png');
+}
+.plant-spruce {
+    content: url('../icons/trees/spruce.png');
+}
+.grow-apple {
+    content: url('../icons/trees/apple.png');
+}
+.grow-aspen {
+    content: url('../icons/trees/aspen.png');
+}
+.grow-birch {
+    content: url('../icons/trees/birch.png');
+}
+.grow-elm {
+    content: url('../icons/trees/elm.png');
+}
+.grow-hazel {
+    content: url('../icons/trees/hazel.png');
+}
+.grow-juniper {
+    content: url('../icons/trees/juniper.png');
+}
+.grow-maple {
+    content: url('../icons/trees/maple.png');
+}
+.grow-mulberry {
+    content: url('../icons/trees/mulberry.png');
+}
+.grow-oak {
+    content: url('../icons/trees/oak.png');
+}
+.grow-pine {
+    content: url('../icons/trees/pine.png');
+}
+.grow-spruce {
+    content: url('../icons/trees/spruce.png');
+}
+/* #endregion */
+/* #region Trees: Harvest */
+.harvest-apple {
+    content: url('../icons/trees/apple_gathering.png');
+}
+.harvest-aspen {
+    content: url('../icons/trees/aspen_gathering.png');
+}
+.harvest-birch {
+    content: url('../icons/trees/birch_gathering.png');
+}
+.harvest-elm {
+    content: url('../icons/trees/elm_gathering.png');
+}
+.harvest-hazel {
+    content: url('../icons/trees/hazel_gathering.png');
+}
+.harvest-juniper {
+    content: url('../icons/trees/juniper_gathering.png');
+}
+.harvest-maple {
+    content: url('../icons/trees/maple_gathering.png');
+}
+.harvest-mulberry {
+    content: url('../icons/trees/mulberry_gathering.png');
+}
+.harvest-oak {
+    content: url('../icons/trees/oak_gathering.png');
+}
+.harvest-pine {
+    content: url('../icons/trees/pine_gathering.png');
+}
+.harvest-spruce {
+    content: url('../icons/trees/spruce_gathering.png');
+}
+/* #endregion */
+
+/* #region App Styling */
+.icon {
+    height: 48px;
+    width: 48px;
+    border-width: 2px;
+}
+.type-header {
+    background-color: #68735E;
+    color: white;
+    text-align: center;
+}
+.type-data {
+    background-color: #282B25;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #282B25;
+}
